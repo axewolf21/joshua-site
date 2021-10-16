@@ -70,8 +70,8 @@ hhhh
 		height: 120px;
 	}
 	.team-triangle .content {
-		width: 190px;
-		height: 190px;
+		width: 185px;
+		height: 185px;
 	}
 	.team-hover i {
 		margin-top: 57px;
@@ -129,10 +129,10 @@ hhhh
 
 	/* Facts (counter up) */
 	.counter-up .fact-inner .counter {
-		font-size: 42px;
+		font-size: 43px;
 	}
 	.counter-up .fact-inner .fa-3x {
-		font-size: 36px;
+		font-size: 37px;
 	}
 
 }
@@ -179,16 +179,16 @@ hhhh
 	}
 	.navbar-nav > li > a {
 		padding: 10px 0 !important;
-		color: #FFF;
+		color: #FFFFFF;
 	}
 	.navbar-nav .open .dropdown-menu > li > a {
 		padding: 10px 10px 10px 45px !important;
 	}
 	.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-		color: #222;
+		color: #222222;
 	}
 	.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
-		color: #CCC;
+		color: #CCCCCC;
 	}
 	.navbar-default.navbar-shrink .navbar-nav > li.active > a {
 		-webkit-box-shadow: none !important;
@@ -198,10 +198,10 @@ hhhh
 
 	/* Navbar shrink toggle button */
 	.navbar-shrink .navbar-toggle .icon-bar {
-		background-color: #FFF !important;
+		background-color: #FFFFFF !important;
 	}
 	.navbar-inverse.navbar-shrink .navbar-toggle .icon-bar {
-		background-color: #FFF !important;
+		background-color: #FFFFFF !important;
 	}
 
 	/* Page */
